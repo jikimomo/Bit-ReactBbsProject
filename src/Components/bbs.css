@@ -1,0 +1,35 @@
+button {
+    margin: 0px 10px;
+}
+
+.detailBox{
+    width: 80%;
+    min-width: 350px;
+    margin: 10px auto;
+}
+.detailTable{
+    border: 1px solid lightblue;
+}
+
+.cmtListBox{
+    width: 80%;
+    min-width: 350px;
+    margin: 60px auto;
+}
+.cmtTable{
+    margin-bottom: 80px;
+}
+.cmtWriteBox{
+    width: 80%;
+    min-width: 350px;
+    margin: 60px auto;
+}
+.cmtBox{
+    border-top: 1px solid lightgray;
+}
+
+.writeBox{
+    width: 75%;
+    min-width: 450px;
+    margin: 0px auto;
+}

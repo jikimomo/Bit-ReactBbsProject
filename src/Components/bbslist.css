@@ -1,0 +1,8 @@
+.underline:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.writeBtn {
+    margin: 10px;
+}
